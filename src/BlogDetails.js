@@ -7,13 +7,13 @@ const BlogDetails = () => {
     data: blog,
     isPending,
     error,
-  } = useFetch(`http://localhost:8000/blogs/${id}`);
+  } = useFetch(`https://dojo-2-backend.herokuapp.com/blogs/${id}`);
   const history = useHistory();
 
   const handleClick = (id) => {
     // fetch(`http://localhost:8000/blogs/${id}` lub
 
-    fetch(`http://localhost:8000/blogs/${blog.id}`, {
+    fetch(`https://dojo-2-backend.herokuapp.com/blogs/${blog.id}`, {
       method: "DELETE",
     }).then(() => {
       history.push("/");

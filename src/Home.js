@@ -6,7 +6,7 @@ const Home = () => {
     data: blogs,
     isPending,
     error,
-  } = useFetch("http://localhost:8000/blogs");
+  } = useFetch("https://dojo-2-backend.herokuapp.com/blogs");
 
   // console.log(blogs, isPending);
   return (
