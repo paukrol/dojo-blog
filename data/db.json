@@ -7,12 +7,6 @@
       "id": 1
     },
     {
-      "title": "Reksio i Rysiek",
-      "body": "Kocham moje zwierzaki",
-      "author": "mario",
-      "id": 8
-    },
-    {
       "title": "hello, ninjas",
       "body": "Mauris consequat finibus magna ut posuere. Vivamus maximus convallis augue, in lacinia enim facilisis ac. Morbi ornare placerat interdum. Cras dictum gravida arcu vel accumsan. In vehicula sem quis malesuada ornare. Quisque in placerat mauris. Nam semper velit a urna consequat finibus. Sed velit libero, mollis non lacus eget, condimentum interdum leo.\n\n",
       "author": "mario",
@@ -23,6 +17,12 @@
       "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec consequat, diam bibendum pulvinar sagittis, leo nulla fringilla orci, ut finibus metus lectus vitae metus. Donec aliquet erat eget sapien viverra, et molestie ante convallis. Sed commodo, neque ut mollis porttitor, ipsum neque sodales nisl, ac gravida purus ipsum sed ipsum. Pellentesque porttitor, risus quis maximus imperdiet, nisl dolor porta ex, vulputate pretium justo nulla eget quam. Phasellus ac nibh eu justo elementum eleifend. Vivamus at diam lectus. Nullam neque nunc, pulvinar venenatis pellentesque quis, fermentum et mi. Ut feugiat augue nec enim bibendum convallis. Integer auctor lectus ex, eget faucibus lectus scelerisque sed. Curabitur eu lorem ultricies magna iaculis accumsan vitae ac enim.\n\n",
       "author": "yoshi",
       "id": 14
+    },
+    {
+      "title": "Pieski małe dwa",
+      "body": "Udało się?",
+      "author": "yoshi",
+      "id": 15
     }
   ]
 }
